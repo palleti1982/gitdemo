@@ -2,7 +2,7 @@
 
 #### *A curated list of helpful material to start learning Angular 2*
 
-##### Current Angular 2 version:
+##### Current Angular 2 version: 
 ![version](https://img.shields.io/npm/v/@angular/core.svg?maxAge=2592000)
 
 #### *Contributing*
