@@ -1,6 +1,4 @@
-# ![AngularJS](https://angular.io/resources/images/logos/standard/shield-large.png)
-
-#### *A curated list of helpful material to start learning Angular 2*
+Suman test message 
 
 ##### Current Angular 2 version: 
 ![version](https://img.shields.io/npm/v/@angular/core.svg?maxAge=2592000)
